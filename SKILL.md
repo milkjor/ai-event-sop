@@ -2,7 +2,7 @@
 name: ai-event-sop
 description: "AI 线下活动策划全流程 SOP，从定位到复盘，按步骤交互产出可执行的策划案"
 version: "2.0.0"
-author: "dontbesilent"
+author: "milkjor"
 agent_created: true
 ---
 
